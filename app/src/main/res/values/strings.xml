@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="name">Kennedy Nwaorgu</string>
+    <string name="job_title">Software Engineer</string>
+    <string name="icon_phone">Phone</string>
+    <string name="icon_email">Email</string>
+    <string name="icon_share">Twitter</string>
+    <string name="phone">(123) 456 4567</string>
+    <string name="email">jcken@me.com</string>
+    <string name="social_handle">\@codejockie</string>
+</resources>
